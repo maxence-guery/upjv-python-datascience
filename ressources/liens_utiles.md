@@ -1,3 +1,0 @@
-# Liens utiles du cours
-
-- Colab, pandas, matplotlib, ...
